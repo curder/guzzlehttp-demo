@@ -1,0 +1,13 @@
+{
+    "name": "curder/guzzlehttp-demo",
+    "description": "guzzle ^7.0 http demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "curder",
+            "email": "q.curder@gmail.com"
+        }
+    ],
+    "require": {}
+}
